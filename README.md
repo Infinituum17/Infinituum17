@@ -10,4 +10,4 @@
 
 ## Partnerships 💪🏻
 
-![[](https://www.bisecthosting.com/infinituum)](https://www.bisecthosting.com/partners/custom-banners/585753b7-ea1e-4cb9-9e9a-17e648698f8c.webp)
+[![](https://www.bisecthosting.com/partners/custom-banners/585753b7-ea1e-4cb9-9e9a-17e648698f8c.webp)](https://www.bisecthosting.com/infinituum)
